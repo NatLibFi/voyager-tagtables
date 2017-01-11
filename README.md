@@ -22,7 +22,7 @@ Asentaminen omalle koneelle:
 
 - Siirrä asennuspaketin voyager-tagtables-master/MARC21 Tag Table/Catalog -hakemiston sisältö Voyager-asennuksesi Catalog-alihakemistoon. Jos koneessa on aiempi versio tag tableista, salli samannimisten olemassaolevien tiedostojen ylikirjoitus.
 
-- Siirrä asennuspaketin voyager-tagtables-master/misc -hakemiston sisältö Voyager-asennuksesi misc-alihakemistoon. Jos koneessa on aiempi versio tag tableista, salli samannnimisten olemassaolevien tiedostojen ylikirjoitus.
+- Siirrä asennuspaketin voyager-tagtables-master/misc -hakemiston sisältö Voyager-asennuksesi Catalog-alihakemistoon. Jos koneessa on aiempi versio tag tableista, salli samannnimisten olemassaolevien tiedostojen ylikirjoitus.
 
 
 

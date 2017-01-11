@@ -20,9 +20,9 @@ Asentaminen omalle koneelle:
 
 - Klikkaa "Clone or download"-nappia ja valitse "Download ZIP". Talleta paketti omalla tietokoneellesi ja pura se.
 
-- Siirrä asennuspaketin voyager-tagtables-master/MARC21 Tag Table/Catalog -hakemisto Voyager asennuksesi Catalog-alihakemistoon. Jos koneessa on aiempi versio tag tableista, salli aiemman version ylikirjoitus.
+- Siirrä asennuspaketin voyager-tagtables-master/MARC21 Tag Table/Catalog -hakemiston sisältö Voyager-asennuksesi Catalog-alihakemistoon. Jos koneessa on aiempi versio tag tableista, salli samannimisten olemassaolevien tiedostojen ylikirjoitus.
 
-- Siirrä asennuspaketin voyager-tagtables-master/misc -hakemisto Voyager asennuksesi Catalog-alihakemistoon. Jos koneessa on aiempi versio tag tableista, salli aiemman version ylikirjoitus.
+- Siirrä asennuspaketin voyager-tagtables-master/misc -hakemiston sisältö Voyager-asennuksesi misc-alihakemistoon. Jos koneessa on aiempi versio tag tableista, salli samannnimisten olemassaolevien tiedostojen ylikirjoitus.
 
 
 

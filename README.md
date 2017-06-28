@@ -8,7 +8,7 @@ MARC 21 bibliografinen, auktoriteetti- ja varastoformaatti, kieli- ja maakoodit,
 
 ## Versio
 
-Jakelussa on 20.12.2016 päivitetty versio.
+Jakelussa on 26.6.2017 päivitetty versio.
 
 ## Käyttöönotto
 

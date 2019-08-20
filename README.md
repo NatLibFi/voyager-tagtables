@@ -8,7 +8,7 @@ MARC 21 bibliografinen, auktoriteetti- ja varastoformaatti, kieli- ja maakoodit,
 
 ## Versio
 
-Jakelussa on 26.9.2018 päivitetty versio. Versio sisältää MARC 21 -formaatin päivitykset 25 ja 26. 
+Jakelussa on 26.9.2018 päivitetty versio. Versio sisältää MARC 21 -formaatin päivitykset 25 ja 26. HUOM! Versio on päivitettävänä 20.8.2019 alkaen parin päivän ajan - merkistöt eivät välttämättä näy oikein.
 
 ## Käyttöönotto
 

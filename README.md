@@ -1,6 +1,6 @@
 # Suomenkielinen MARC 21 Tag Table
 
-Voyager-kirjastojärjestelmän *MARC 21 Tag Table* -paketti. Tag Table -päivityksistä ilmoitetaan postituslistoilla (voy-sys, voy-cat, arto-list, viola-list). Päivitykset tehdään GitHubiin.
+Voyager-kirjastojärjestelmän *MARC 21 Tag Table* -paketti. Tag Table -päivityksistä ilmoitetaan postituslistoilla (voy-sys, voy-cat). Päivitykset tehdään GitHubiin.
 
 ## Sisältö
 
